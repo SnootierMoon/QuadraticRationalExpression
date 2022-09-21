@@ -1,4 +1,4 @@
 # QuadraticRationalExpression
 Formula for solving general quadratic rational expressions
 
-[[/CodeCogsEqn.svg|rendered]]
+[[/CodeCogsEqn.svg|alt=rendered]]
